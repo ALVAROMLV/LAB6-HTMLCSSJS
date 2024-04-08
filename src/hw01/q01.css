@@ -78,6 +78,30 @@
   text-align: center;
   order: 1;
 }
+/*Ejercicio 1
+.parent {
+  width: 350px;
+  height: 350px;
+  display: inline-flex;
+  flex-flow: wrap;
+  justify-content: space-between;
+  
+}
+.parent .container-1{
+  order: 1;
+}
+.parent .container-5{
+  order: 2;
+}
+.parent .container-9{
+  order: 2;
+}
+/*Ejercicio 2*/
 
 .parent {
+  width: 350px;
+  height: 350px;
+  display: inline-flex;
+  flex-flow: wrap;
+  justify-content: space-between;
 }
