@@ -96,7 +96,7 @@
 .parent .container-9{
   order: 2;
 }
-/*Ejercicio 2*/
+/*Ejercicio 2
 
 .parent {
   width: 350px;
@@ -105,3 +105,4 @@
   flex-flow: wrap;
   justify-content: space-between;
 }
+*/
